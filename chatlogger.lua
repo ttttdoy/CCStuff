@@ -9,7 +9,7 @@ local button = main
     :setText("ur fat")
     :onClick(
         function()
-            basalt.debug("hello")
+            basalt.debug("Hello World!")
         end)
 
 
